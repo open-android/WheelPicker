@@ -6,6 +6,11 @@
 
 ![](http://i.imgur.com/TPkIrBJ.gif)
 
+* 爱生活,爱学习,更爱做代码的搬运工,分类查找更方便请下载黑马助手app
+
+
+![黑马助手.png](http://upload-images.jianshu.io/upload_images/4037105-f777f1214328dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 使用步骤
 
 ### 1. 在project的build.gradle添加如下代码(如下图)
@@ -55,7 +60,8 @@
 
 		setData(List data); 
 
+* 详细的使用方法在DEMO里面都演示啦,如果你觉得这个库还不错,请赏我一颗star吧~~~
 
-欢迎关注微信公众号
+* 欢迎关注微信公众号
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
